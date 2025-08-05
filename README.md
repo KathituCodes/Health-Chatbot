@@ -22,7 +22,7 @@ This project is a **Health Assistant Chatbot** built using **Natural Language Pr
 * Feedforward Neural Network for intent classification.
 * GUI frontend using Tkinter for user interaction.
 
-#@ Model Training
+## Model Training
 
 The chatbot uses a **Multi-Layer Perceptron (MLP)** model with the following architecture:
 
